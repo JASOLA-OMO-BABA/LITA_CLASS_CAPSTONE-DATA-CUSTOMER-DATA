@@ -19,4 +19,4 @@
 
  ### Tools used in the Analysis Of Customer Segmentation For A Subscription Service.
  ---
- - Micrsoft Excel
+ - Micrsoft Excel For Adequate Data CLeaning, Analysis and Visualization.
