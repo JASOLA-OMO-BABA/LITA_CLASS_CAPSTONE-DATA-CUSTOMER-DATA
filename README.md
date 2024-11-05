@@ -48,3 +48,19 @@ EDA involves the exploring of the data to answer some questions about the data s
 
    https://github.com/JASOLA-OMO-BABA/LITA_CLASS_CAPSTONE-DATA-CUSTOMER-DATA/blob/main/Screenshot%20(13).png
    https://github.com/JASOLA-OMO-BABA/LITA_CLASS_CAPSTONE-DATA-CUSTOMER-DATA/blob/main/Screenshot%20(14).png
+
+   ![image](https://github.com/user-attachments/assets/97e0718e-fecd-4225-81be-d26befdeadd8)
+   ![image](https://github.com/user-attachments/assets/a056e63f-768f-4704-8ca6-54832435e3c5)
+   ![image](https://github.com/user-attachments/assets/06676b74-b3a1-4b5a-8244-ef5a7f245fc3)
+   ![image](https://github.com/user-attachments/assets/4346accc-a67d-4c92-b5bb-2e2eec56f57c)
+   [image](https://github.com/user-attachments/assets/6895ebed-8e57-4aad-927c-9fce5354535d)
+   ![image](https://github.com/user-attachments/assets/49eba3d3-c0f2-41e3-9170-fa2751ef3b13)
+
+   
+   
+
+
+   
+
+
+
