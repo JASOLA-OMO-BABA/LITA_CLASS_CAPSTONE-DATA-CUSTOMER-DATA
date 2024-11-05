@@ -47,4 +47,4 @@ EDA involves the exploring of the data to answer some questions about the data s
 -  What is the top 3 region by cancellation?
 
    https://github.com/JASOLA-OMO-BABA/LITA_CLASS_CAPSTONE-DATA-CUSTOMER-DATA/blob/main/Screenshot%20(13).png
-
+   https://github.com/JASOLA-OMO-BABA/LITA_CLASS_CAPSTONE-DATA-CUSTOMER-DATA/blob/main/Screenshot%20(14).png
