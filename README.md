@@ -18,5 +18,33 @@
  The primary source of data used in this analysis is the "Capstone Customer Data.csv" which was gotten from an open online source such as Kaggle or FRED or any other data repository site and to even make it better, it is free. Free for practice and to get better in our skills.
 
  ### Tools used in the Analysis Of Customer Segmentation For A Subscription Service.
- ---
- - Micrsoft Excel For Adequate Data CLeaning, Analysis and Visualization.
+ --- 
+- Microsoft Excel for Adequate Data Cleaning, Analysis and Visualization.Download Here
+-  SQL- Strucured Query Language for Querying Of Data.
+-   PowerBI- Power Business Intelligence for creating interactive dashboards, Reports and Data Visualization.
+-   Github for Portfolio Building.
+
+These tools all help organizations and individuals as well in making informed and accurate decisions.
+---
+### Data Cleaning and Preparations.
+---
+
+In the initial phase of the Data Cleaning and Preparations, we perform the following action;
+
+- Data loading and Inspection
+- Handling missing variables
+- Data Cleaning and Formatting
+---
+
+### Exploratory Data Analysis.
+
+EDA involves the exploring of the data to answer some questions about the data such as;
+
+- What is the average subscription duration?
+-  What is the total number of customers by each region?
+-  What is the most popular subscription type?
+-  What is the total revenue by the subscription type?
+-  What is the top 3 region by cancellation?
+
+   
+
