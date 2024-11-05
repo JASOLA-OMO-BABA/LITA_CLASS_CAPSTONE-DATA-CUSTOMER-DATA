@@ -56,6 +56,17 @@ EDA involves the exploring of the data to answer some questions about the data s
    [image](https://github.com/user-attachments/assets/6895ebed-8e57-4aad-927c-9fce5354535d)
    ![image](https://github.com/user-attachments/assets/49eba3d3-c0f2-41e3-9170-fa2751ef3b13)
 
+   ---
+  ### Data Analysis.
+  ---
+  This is where there is inclusion of some codes or queries or even some of the DAX Expressions used during the analysis.
+
+   https://github.com/JASOLA-OMO-BABA/LITA_CLASS_CAPSTONE-DATA-CUSTOMER-DATA/blob/main/LITA%20CAPSTONE%20PROJECT%20CUSTOMER%20DATA.sql
+   
+   ---
+   ### DATA VISUALIZATION.
+   ---
+   This describes how the cleaned information gets analyzed in terms of visuals, shapes, pictures and even building and this is all to make better and easier decisons.
    
    
 
